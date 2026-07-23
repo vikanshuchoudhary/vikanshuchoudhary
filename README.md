@@ -1,82 +1,141 @@
-# Hi 👋 I'm Vikanshu Choudhary
+<h1 align="center">👋 Hi, I'm Vikanshu Choudhary</h1>
 
-## 🚀 WordPress & Frontend Developer
+<h3 align="center">
+WordPress Developer • Frontend Developer • 7+ Years Experience
+</h3>
 
-Results-driven WordPress & Frontend Developer with **7+ years of experience** building **90+ responsive and high-performance websites** for international clients.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=WordPress+Developer;Frontend+Developer;90%2B+Websites+Delivered;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP;Open+to+Work" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💼 7+ Years of Professional Experience
+- 💼 WordPress & Frontend Developer
+- 🚀 7+ Years Professional Experience
 - 🌍 Worked with International Clients
-- 🚀 Built 90+ Websites
-- ⚡ Performance & SEO Focused Development
-- 🎯 Passionate about Clean UI & Responsive Design
-- 🌱 Currently Learning UI/UX & Advanced JavaScript
+- 🏆 Built 90+ Professional Websites
+- ⚡ Website Speed Optimization
+- 📱 Responsive Web Design
+- 🎯 SEO Friendly Development
+- 🤖 AI Assisted Development (ChatGPT, Claude, GitHub Copilot, Gemini)
+- 🌱 Currently Learning Advanced JavaScript & UI/UX
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Frontend
-HTML5 • CSS3 • Bootstrap • JavaScript • jQuery
+<p align="center">
 
-### Backend
-PHP • WordPress
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,php,wordpress,git,github,vscode,figma,photoshop"/>
 
-### Tools
-Git • GitHub • cPanel • VS Code
-
-### AI Tools
-ChatGPT • Claude AI • GitHub Copilot • Google Gemini
+</p>
 
 ---
 
-## 💼 Services
+# 📊 GitHub Stats
 
-- WordPress Website Development
-- Custom Theme Development
-- Landing Pages
-- Website Speed Optimization
-- Responsive Web Design
-- Website Maintenance
-- SEO Friendly Development
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikanshuchoudhary&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikanshuchoudhary&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 🌟 Featured Projects
+# 🔥 GitHub Streak
 
-| Project | Description |
-|---------|-------------|
-| 🌐 Wadhwa Bau | Construction & Renovation Website |
-| ⌚ Die Uhrenmacherei | Luxury Watch Repair Website |
-| 🏥 Pflegori | Home Care & Nursing Services |
-| ♻️ ANB Entsorgung | Waste Management Website |
-| 🏡 Indo Bella Vista | Real Estate Website |
-| 🚚 SevenDays Transports | Moving & Logistics Website |
-| 📦 Frieden Umzüge | Moving Company Website |
-| 🧹 Entrümpelungsheld 24 | Clearance & Disposal Services |
-| 🏗 Martin Baudeko | Building Materials Website |
+<p align="center">
 
-### Live Websites
+<img src="https://streak-stats.demolab.com?user=vikanshuchoudhary&theme=tokyonight"/>
 
-- 🔗 https://wadhwa-bau.de/
-- 🔗 https://dieuhrenmacherei.de/
-- 🔗 https://pflegori.de/
-- 🔗 https://anb-entsorgung.de/
-- 🔗 https://indobellavista.de/
-- 🔗 https://sevendays-transports.de/
-- 🔗 https://www.frieden-umzuege.de/
-- 🔗 https://entruempelungsheld-24.de/
-- 🔗 https://martin-baudeko.de/
-  
-## 📫 Contact
+</p>
 
-📧 **Email:** vikanshuchoudhary60@gmail.com
+---
+
+# 🚀 Services
+
+✅ WordPress Development
+
+✅ Custom WordPress Themes
+
+✅ Landing Pages
+
+✅ Responsive Websites
+
+✅ Website Speed Optimization
+
+✅ SEO Friendly Websites
+
+✅ Website Maintenance
+
+✅ Hosting & cPanel Management
+
+---
+
+# 🌍 Featured Client Projects
+
+| Project | Live Website |
+|----------|--------------|
+| 🏗 Wadhwa Bau | https://wadhwa-bau.de |
+| ⌚ Die Uhrenmacherei | https://dieuhrenmacherei.de |
+| 🏥 Pflegori | https://pflegori.de |
+| ♻️ ANB Entsorgung | https://anb-entsorgung.de |
+| 🏡 Indo Bella Vista | https://indobellavista.de |
+| 🚚 SevenDays Transports | https://sevendays-transports.de |
+| 📦 Frieden Umzüge | https://www.frieden-umzuege.de |
+| 🧹 Entrümpelungsheld 24 | https://entruempelungsheld-24.de |
+| 🏗 Martin Baudeko | https://martin-baudeko.de |
+
+---
+
+# 🏆 Professional Skills
+
+✔ HTML5
+
+✔ CSS3
+
+✔ Bootstrap
+
+✔ JavaScript
+
+✔ jQuery
+
+✔ PHP
+
+✔ WordPress
+
+✔ Responsive Design
+
+✔ Website Optimization
+
+✔ Git & GitHub
+
+✔ SEO
+
+✔ AI Tools
+
+---
+
+# 📫 Connect With Me
+
+📧 Email
+
+**vikanshuchoudhary60@gmail.com**
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/vikanshu-choudhary-01a415192
 
 📍 Bijnor, Uttar Pradesh, India
 
 ---
 
-⭐ Thanks for visiting my profile.
+<p align="center">
+
+### ⭐ If you like my work, don't forget to follow me ⭐
+
+</p>
