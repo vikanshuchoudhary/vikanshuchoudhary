@@ -1,46 +1,67 @@
-# Hi 👋, I'm Vikanshu Choudhary
+# Hi 👋 I'm Vikanshu Choudhary
 
-## 💻 Frontend & WordPress Developer
+## 🚀 WordPress & Frontend Developer
 
-I am a Frontend & WordPress Developer with 7+ years of experience building responsive, user-friendly, and high-performance websites.
-
----
-
-## 🚀 Skills
-
-- HTML5
-- CSS3
-- JavaScript
-- jQuery
-- Bootstrap
-- WordPress
-- PHP
-- Responsive Design
-- Git & GitHub
+Results-driven WordPress & Frontend Developer with **7+ years of experience** building **90+ responsive and high-performance websites** for international clients.
 
 ---
 
-## 🌱 Currently Learning
+## 👨‍💻 About Me
 
-- Advanced JavaScript
-- UI/UX Design
-- Modern Frontend Development
+- 💼 7+ Years of Professional Experience
+- 🌍 Worked with International Clients
+- 🚀 Built 90+ Websites
+- ⚡ Performance & SEO Focused Development
+- 🎯 Passionate about Clean UI & Responsive Design
+- 🌱 Currently Learning UI/UX & Advanced JavaScript
 
 ---
 
-## 💼 What I Build
+## 🛠 Tech Stack
 
-- WordPress Websites
+### Frontend
+HTML5 • CSS3 • Bootstrap • JavaScript • jQuery
+
+### Backend
+PHP • WordPress
+
+### Tools
+Git • GitHub • cPanel • VS Code
+
+### AI Tools
+ChatGPT • Claude AI • GitHub Copilot • Google Gemini
+
+---
+
+## 💼 Services
+
+- WordPress Website Development
+- Custom Theme Development
 - Landing Pages
-- Business Websites
-- Responsive Websites
-- Custom UI Components
+- Website Speed Optimization
+- Responsive Web Design
+- Website Maintenance
+- SEO Friendly Development
+
+---
+
+## 🌟 Featured Projects
+
+- Verax Firmenkredit
+- Gika Bau
+- Die Uhrenmacherei
+- Wadhwa Bau
+- SevenDays Transports
+- Admiral Umzuege
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: Coming Soon
+📧 **Email:** vikanshuchoudhary60@gmail.com
 
-⭐ Thanks for visiting my profile!
+📍 Bijnor, Uttar Pradesh, India
+
+---
+
+⭐ Thanks for visiting my profile.
