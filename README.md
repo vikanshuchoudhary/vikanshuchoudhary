@@ -47,15 +47,30 @@ ChatGPT • Claude AI • GitHub Copilot • Google Gemini
 
 ## 🌟 Featured Projects
 
-- Verax Firmenkredit
-- Gika Bau
-- Die Uhrenmacherei
-- Wadhwa Bau
-- SevenDays Transports
-- Admiral Umzuege
+| Project | Description |
+|---------|-------------|
+| 🌐 Wadhwa Bau | Construction & Renovation Website |
+| ⌚ Die Uhrenmacherei | Luxury Watch Repair Website |
+| 🏥 Pflegori | Home Care & Nursing Services |
+| ♻️ ANB Entsorgung | Waste Management Website |
+| 🏡 Indo Bella Vista | Real Estate Website |
+| 🚚 SevenDays Transports | Moving & Logistics Website |
+| 📦 Frieden Umzüge | Moving Company Website |
+| 🧹 Entrümpelungsheld 24 | Clearance & Disposal Services |
+| 🏗 Martin Baudeko | Building Materials Website |
 
----
+### Live Websites
 
+- 🔗 https://wadhwa-bau.de/
+- 🔗 https://dieuhrenmacherei.de/
+- 🔗 https://pflegori.de/
+- 🔗 https://anb-entsorgung.de/
+- 🔗 https://indobellavista.de/
+- 🔗 https://sevendays-transports.de/
+- 🔗 https://www.frieden-umzuege.de/
+- 🔗 https://entruempelungsheld-24.de/
+- 🔗 https://martin-baudeko.de/
+  
 ## 📫 Contact
 
 📧 **Email:** vikanshuchoudhary60@gmail.com
