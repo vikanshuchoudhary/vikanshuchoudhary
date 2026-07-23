@@ -37,11 +37,8 @@ WordPress Developer • Frontend Developer • 7+ Years Experience
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikanshuchoudhary&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikanshuchoudhary&layout=compact&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikanshuchoudhary&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikanshuchoudhary&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -49,9 +46,7 @@ WordPress Developer • Frontend Developer • 7+ Years Experience
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=vikanshuchoudhary&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=vikanshuchoudhary&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
@@ -120,17 +115,12 @@ WordPress Developer • Frontend Developer • 7+ Years Experience
 
 ---
 
-# 📫 Connect With Me
+# 📫 Contact Me
 
-📧 Email
-
-**vikanshuchoudhary60@gmail.com**
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/vikanshu-choudhary-01a415192
-
-📍 Bijnor, Uttar Pradesh, India
+- 📧 **Email:** vikanshuchoudhary60@gmail.com
+- 📱 **Mobile:** +91 6396285153
+- 💼 **LinkedIn:** https://www.linkedin.com/in/vikanshu-choudhary-01a415192
+- 📍 **Location:** Bijnor, Uttar Pradesh, India
 
 ---
 
